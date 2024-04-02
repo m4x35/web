@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KulykLab03-4</title>
+    <style>
+        body {
+            background-image: url("vvb.jepg");
+            background-size: cover;
+            background-repeat: no-repeat;
+            color: #ffffff; /* колір тексту на фоні */
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: rgba(202, 68, 173, 0.342); /* прозорий фіолетовий колір для контейнера */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Моя група друзів</h1>
+        <p>Моя група друзів складається з багатьох людей різних сфер.Є друзі в університеті та близькі для мене друзі з якими я можу прогулятися . Більшу перевагу я надаю друзьям з якими я більше спілкуюся адже вони не живуть в Місті </p>
+    </div>
+</body>
+</html>

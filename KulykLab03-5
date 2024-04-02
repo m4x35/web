@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>kulykLab03-5</title>
+</head>
+<body>
+    <h1>Фотографії з надписами</h1>
+    <img src="cat.jpeg" alt="cat" width="450" height="300" border="1">
+    <p>чорний кіт с білою плямою на тілі</p>
+    <img src="dog.jpeg" alt="dog" width="450" height="300" border="1">
+    <p>коричневий пес з великою посмішкою</p>
+</body>
+</html>

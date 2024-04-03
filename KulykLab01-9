@@ -6,7 +6,6 @@
     <title>Document</title>
 </head>
 <body bgcolor="gray"
-     <div>
         <h1><center><u>Про себе</u></center></h1>
         <p><center><font color="blue" font size="4"><br>Мене звати Максим,я студент Національного Університету"Полтавська Політехніка" спеціальності 123 групи 101-ТК</u></br></font></center></p>
         <p><center><font color="blue" font size="4"><br>Я студент із захопленням вивчаю веб-розробку та програмування. Моя мета - стати висококваліфікованим фахівцем у цих галузях <u></br></font></center></p>
@@ -16,10 +15,7 @@
         <p><center><font color="blue" font size="4"><br>Добре граю в футбол.А саме подобається це робити зі своїми друзями</br></font></center></p>
         <h3><center><font color="green"font size="7">Програмування</font></center></h3>
         <p><center><font color="blue"><u><br>Visual Studio Code, який також зазвичай називають VS Code — це редактор початкового коду, створений Microsoft із Electron Framework для Windows, Linux і macOS</br></u></font></center></p>
-<tfoot><align="left"><font color="white"<u><br></br>Студент групи 101-ТК Кулик М.О.</br></u></align></tfoot>
-    </div>
-
-    <center><img src="https://media.giphy.com/media/xT77XZrTKOxycjaYvK/giphy.gif?cid=790b7611ffz5vqj38fp9wjkoy7y8krsi5e2qbmvwp8a8ed5s&ep=v1_gifs_search&rid=giphy.gif&ct=g"></center>
+<align="left"><font color="white"<u><br></br>Студент групи 101-ТК Кулик М.О.</br></u></align>
 </body>
 </html>
 
